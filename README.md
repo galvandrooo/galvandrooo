@@ -1,4 +1,5 @@
-### Hi there 👋
+### greetings, human 💀
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlscW1mcnpvYjE4ajk4NW53bDB6Z3RlamxhbGpycGphZjdzMjYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mk0ClXsaw7K2z2cgCF/giphy.gif"/>
 
 <!--
 **galvandro/galvandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
