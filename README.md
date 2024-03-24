@@ -1,7 +1,7 @@
 ### greetings, human 💀
 ---
 
-<img src="4078.gif"/>
+<img src="banner.gif"/>
 
 ---
 
