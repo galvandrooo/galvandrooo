@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlscW1mcnpvYjE4ajk4NW53bDB6Z3RlamxhbGpycGphZjdzMjYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mk0ClXsaw7K2z2cgCF/giphy.gif"/>
 
 ---
-[![Galvandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvandro)](https://github.com/galvandro/github-readme-stats)
+[![Galvandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=aura)](https://github.com/galvandro/github-readme-stats)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
