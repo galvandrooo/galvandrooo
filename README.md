@@ -6,10 +6,7 @@
 ---
 
 <a href="https://github.com/galvandro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro" />
-</a>
-<a href="https://github.com/galvandro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=galvandro&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro&theme=aura"/>
 </a>
 
 ---
@@ -18,7 +15,6 @@
 <div>
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/git.svg" title="GIT" alt="GIT"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="LINUX" alt="LINUX" width="48" height="48"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/figma.svg" title="FIGMA" alt="FIGMA"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/krita.svg" title="KRITA" alt="KRITA"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
