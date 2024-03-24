@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=aura"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=galvandro">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galvandro&layout=compact&theme=aura"/>
+  <img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galvandro&layout=compact&theme=aura&card_width=1px"/>
 </a>
 
 ---
