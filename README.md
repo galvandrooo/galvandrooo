@@ -1,6 +1,10 @@
 ### greetings, human 💀
 ---
 
+<img src="20.png">
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
