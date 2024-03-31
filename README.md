@@ -24,4 +24,4 @@
 
 ---
 
-**@galvandro**/**Leandro_Galvão**
+**@galvandro**/**Leandro Galvão**
