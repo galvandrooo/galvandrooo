@@ -7,7 +7,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="LINUX" alt="LINUX" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/putty.svg" title="FILEZILLA" alt="FILEZILLA"/>&nbsp;
+  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/filezilla.svg" title="FILEZILLA" alt="FILEZILLA"/>&nbsp;
+  <img src="linux.png" title="LINUX" alt="LINUX" width="48" height="48"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/metasploit.svg" title="METASPLOIT" alt="METASPLOIT"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/git.svg" title="GIT" alt="GIT"/>&nbsp;
