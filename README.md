@@ -30,4 +30,5 @@
 
 **@galvandro**/**Leandro Galvão**
 
-DEV, illustrator, tomato grower, 
+DEV, illustrator, tomato grower, and aspiring pentester...
+
