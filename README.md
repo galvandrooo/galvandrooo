@@ -30,4 +30,4 @@
 
 **@galvandro**/**Leandro Galvão**
 
-DEV,
+DEV, illustrator, 
