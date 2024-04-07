@@ -32,3 +32,4 @@
 
 DEV, illustrator, tomato grower, and aspiring pentester...
 
+*failed in all skills
