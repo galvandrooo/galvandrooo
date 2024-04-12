@@ -13,7 +13,7 @@ DEV, illustrator, tomato grower, and aspiring pentester...
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/putty.svg" title="PUTTY" alt="FILEZILLA"/>&nbsp;
+  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/putty.svg" title="PUTTY" alt="PUTTY"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/filezilla.svg" title="FILEZILLA" alt="FILEZILLA"/>&nbsp;
   <img src="linux.svg" title="LINUX" alt="LINUX" width="48" height="48"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
