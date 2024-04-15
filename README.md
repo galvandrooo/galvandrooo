@@ -1,9 +1,7 @@
-### **@galvandro**/**Leandro Galvão** 💀
+### **@galvandro**/**Leandro Galvão**
 
 
-DEV, illustrator, tomato grower, and aspiring pentester...
-
-*Failed in all skills*
+DEV, illustrator, and tomato grower...
 
 ---
 
