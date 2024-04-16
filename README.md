@@ -1,6 +1,6 @@
 ### **@galvandro**/**Leandro Galvão**
 
-**BEGINNER** *...in search of knowledge*
+**BEGINNER... _aiming for competence_**
 
 DEV, illustrator, and tomato grower...
 
