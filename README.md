@@ -8,8 +8,8 @@ DEV, illustrator, and tomato grower...
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="linux.svg" title="LINUX" alt="LINUX" width="48" height="48"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
+  <img src="terminal.png" title="TERMINAL" alt="TERMINAL" height=48 width=48>
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/git.svg" title="GIT" alt="GIT"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/inkscape.svg" title="INKSCAPE" alt="INKSCAPE"/>&nbsp;
 </div>
