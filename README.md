@@ -12,7 +12,6 @@ DEV, illustrator, and tomato grower...
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/git.svg" title="GIT" alt="GIT"/>&nbsp;
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/inkscape.svg" title="INKSCAPE" alt="INKSCAPE"/>&nbsp;
-  <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/krita.svg" title="KRITA" alt="KRITA"/>&nbsp;
 </div>
 
 ---
