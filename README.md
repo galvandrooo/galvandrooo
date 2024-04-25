@@ -21,5 +21,5 @@
 ---
 
 <a href="https://github.com/galvandro/github-readme-stats">
-  <img height=200 margin="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=merko"/>
+  <img height=200 margin="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=merko&include_all_commits=true"/>
 </a>
