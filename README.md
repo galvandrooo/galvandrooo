@@ -7,7 +7,7 @@
 
 ### Languages and Tools :
 <div>
-  <img src="linux.svg" title="LINUX" alt="LINUX" height=48 width=48>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="LINUX" alt="LINUX" height=48 width=48>
   <!--<img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/androidstudio.svg" title="AS" alt="AS"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RASPBERRYPI" alt="RASPBERRYPI" height=48 width=48>
   <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/python.svg" title="PYTHON" alt="PYTHON"/>&nbsp;
