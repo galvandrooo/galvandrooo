@@ -23,3 +23,11 @@
 <a href="https://github.com/galvandro/github-readme-stats">
   <img height=200 margin="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 </a>
+
+---
+
+<div>
+<br><p align="centre"><b>"Galactic Pioneers"</b></p>  
+<p><img src="https://profile-counter.glitch.me/{galvandro}/count.svg" /></p> 
+<br>
+</div>
