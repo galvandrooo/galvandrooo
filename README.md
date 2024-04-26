@@ -27,7 +27,7 @@
 ---
 
 <div>
-<br><p align="centre"><b>"Galactic Pioneers"</b></p>  
+<br><p align="centre"><b>"Stellar Voyagers"</b></p>  
 <p><img src="https://profile-counter.glitch.me/{galvandro}/count.svg" /></p> 
 <br>
 </div>
