@@ -14,7 +14,7 @@
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html5-dark.svg" title="HTML" alt="HTML" height=48 width=48>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-dark.svg" title="CSS" alt="CSS" height=48 width=48>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="KOTLIN" alt="KOTLIN" height=48 width=48/>-->
-  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/powershell-dark.svg" title="TERMINAL" alt="TERMINAL" height=50 width=50>
+  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/powershell-dark.svg" title="TERMINAL" alt="TERMINAL" height=55 width=55>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/git-dark.svg" title="GIT" alt="GIT" height=48 width=48>
   <!--<img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/48x48/apps/inkscape.svg" title="INKSCAPE" alt="INKSCAPE"/>&nbsp;-->
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/figma-dark.svg" title="FIGMA" alt="FIGMA" height=43 width=43/>
