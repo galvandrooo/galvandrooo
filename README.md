@@ -22,6 +22,10 @@
 
 ---
 
+![Galvandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=midnight-purple)
+
+---
+
 <div>
 <br><p align="centre"><b>"Stellar Voyagers"</b></p>  
 <p><img src="https://profile-counter.glitch.me/{galvandro}/count.svg" /></p> 
