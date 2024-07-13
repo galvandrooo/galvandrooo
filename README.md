@@ -16,7 +16,7 @@
 
 ---
 
-![Galvandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvandro&show_icons=true&theme=midnight-purple)
+![Galvandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvandrooo&show_icons=true&theme=midnight-purple)
 
 ---
 
