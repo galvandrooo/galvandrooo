@@ -15,8 +15,6 @@
 </div>
 
 ---
-<img src="">
----
 
 <div>
 <br><p align="centre"><b>"Stellar Voyagers"</b></p>  
