@@ -11,10 +11,6 @@
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python-dark.svg" title="PYTHON" alt="PYTHON" height=48 width=48>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/javascript-dark.svg" title="JS" alt="JS" height=48 width=48>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html5-dark.svg" title="HTML" alt="HTML" height=48 width=48>
-  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-dark.svg" title="CSS" alt="CSS" height=48 width=48>
-</div>
-
----
 
 <div>
 <br><p align="centre"><b>"Stellar Voyagers"</b></p>  
