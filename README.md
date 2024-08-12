@@ -6,10 +6,6 @@
 ---
 
 ### Languages and Tools :
-<div>
-  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/linux-dark.svg" title="LINUX" alt="LINUX" height=48 width=48>
-  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python-dark.svg" title="PYTHON" alt="PYTHON" height=48 width=48>
-  <img src="https://github.com/
 
 <div>
 <br><p align="centre"><b>"Stellar Voyagers"</b></p>  
