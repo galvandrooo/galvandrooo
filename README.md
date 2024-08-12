@@ -10,7 +10,7 @@
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/linux-dark.svg" title="LINUX" alt="LINUX" height=48 width=48>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python-dark.svg" title="PYTHON" alt="PYTHON" height=48 width=48>
   <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/javascript-dark.svg" title="JS" alt="JS" height=48 width=48>
-  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html5-dark.svg" title="HTML" alt="HTML" height=48 width=48>
+  <img src="https://github.com/danielcranney
 
 <div>
 <br><p align="centre"><b>"Stellar Voyagers"</b></p>  
