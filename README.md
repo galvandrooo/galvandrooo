@@ -1,4 +1,7 @@
-### **@galvandrooo** // **Leandro Galvão**
+### **@zholtraht** // **Leandro Galvão** 🖖
+---
+
+<p><img src="sjjo.png" /></p>
 
 ---
 
