@@ -1,7 +1,7 @@
 ### **@zholtraht** // **Leandro Galvão** 🖖
 ---
 
-<p><img src="pin.png" /></p>
+<p><img src="sjjo.png" /></p>
 
 ---
 
